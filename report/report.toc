@@ -1,0 +1,19 @@
+\contentsline {section}{\numberline {1}Environment and Configuration}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Hardware and Software Environment}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Project Setup}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {2}PRIMA Basic Functionality Testing}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Test Objective}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Constraint Testing}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Test Code Snippet}{2}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Test Results}{4}{subsection.2.4}%
+\contentsline {section}{\numberline {3}OPTIPROFILER Benchmark Testing}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Test Settings}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Test Group 1: Single vs Double Precision}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Test Group 2: Double vs Quadruple Precision}{5}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Test Code Snippet}{5}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Performance Comparison Plots}{7}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Analysis and Conclusion}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Experimental Results}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Comparison of Plain vs. Noisy Modes}{8}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Potential Causes for Solver Failure in Noisy Mode}{8}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Conclusion}{8}{subsection.4.4}%
