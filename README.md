@@ -19,3 +19,5 @@ This project is incorsponding to the test report of the PRIMA solver and the res
 -'codes/': Store test Script
 
 -'report/': Store LaTeX report and PDF
+
+-'result/': Store test result of experiment
